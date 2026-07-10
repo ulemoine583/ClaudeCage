@@ -25,3 +25,4 @@ Notes and usage details for ClaudeCage.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
